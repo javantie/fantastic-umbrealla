@@ -33,7 +33,7 @@ Product.init(
         validate: {
           isInt: true,
         },
-         // foreign key added for catefory
+         // foreign key added for category
         catergory_id: {
           type: DataTypes.INTEGER,
           reference: {
