@@ -24,4 +24,4 @@ nodemon server.js, npm start server.js
 If you have any questions about the repo, open an issue or contact [javantie](https://github.com/javantie) directly [javantieclarke@gmail.com](mailto:javantieclarke@gmail.com).
 
 # Walk-through Vedio
-* Watch here: 
+* Watch here: https://drive.google.com/file/d/1ZRlzfX5BDXn1JWPuJWBKfPRW0RCYZFVq/view
